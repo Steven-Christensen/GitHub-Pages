@@ -1,7 +1,7 @@
 # Steven Christensen
 ## Software Engineer, Comp Sci Student at UCSD
 
-<img src="IMG_2598.jpg" alt="this is an image" width="200"/>
+
 ### Experience
 
 SDE 1 Intern for the Amazon Luna Game Streaming Team
