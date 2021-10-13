@@ -1,12 +1,16 @@
 # Steven Christensen
 ## Software Engineer, Comp Sci Student at UCSD
+
+![this-is-an-image](IMG_2598.jpg)
+
 ### Experience
-**Amazon**
 
 SDE 1 Intern for the Amazon Luna Game Streaming Team
 
-In the words of Peter Han, my Manager 
-> Any team would be lucky to have you
+
+> “I must not fear. Fear is the mind-killer.”
+
+― Frank Herbert, Dune
 
 #### Here is some code that demonstrates adding two numbers represented by linkedlists using recursion
 ```java
@@ -80,4 +84,3 @@ public void sumTwo(LinkedLists l1, LinkedLists l2)
   - [ ] Apply to lots of companies for internships
   - [x] Study a lot
 
-![this-is-an-image](IMG_3585.PNG)
